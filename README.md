@@ -52,5 +52,5 @@ Ad budgets are not optimized, resulting in inefficiencies. This analysis aims to
    - Reevaluate underperforming New Year promotions.
 ## Project Files
 - `/sql_queries`: SQL scripts for data analysis.
-- `/visuals`: Power BI charts (PNG/JPEG).
-- `/presentation`: Detailed presentation (PDF/PPT).
+- `/visuals`: Power BI charts (PNG/JPEG)
+- `Social Media Ad Campaign.pbix`: Detailed presentation (PDF/PPT).
