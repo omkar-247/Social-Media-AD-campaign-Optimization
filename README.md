@@ -1,4 +1,7 @@
 # Social-Media-AD-campaign-Optimization
+[image](https://github.com/user-attachments/assets/171deb2a-e7eb-46f2-92b2-f4c76c3bddae)
+
+
 Overview
 This project analyzes social media ad campaign performance to optimize advertising strategies. By combining SQL and Power BI, we derive actionable insights for better Return on Ad Spend (ROAS).
 
