@@ -52,5 +52,5 @@ Ad budgets are not optimized, resulting in inefficiencies. This analysis aims to
    - Reevaluate underperforming New Year promotions.
 ## Project Files
 - [SQL](https://raw.githubusercontent.com/omkar-247/Social-Media-AD-campaign-Optimization/refs/heads/main/SQL%20Query.sql): SQL scripts for data analysis.
-- `/visuals`: Power BI charts (PNG/JPEG)
+- [Power BI Dashboard](https://github.com/omkar-247/Social-Media-AD-campaign-Optimization/blob/main/Power%20BI%20Dashboard.png): Power BI charts for detailed Understanding.
 - [PPT](https://github.com/omkar-247/Social-Media-AD-campaign-Optimization/blob/main/Social%20Media%20Ad%20Campaign%20ppt.pptx): Detailed presentation .
