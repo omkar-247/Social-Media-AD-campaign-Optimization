@@ -1,5 +1,5 @@
 # Social-Media-AD-campaign-Optimization
-[image](https://github.com/user-attachments/assets/171deb2a-e7eb-46f2-92b2-f4c76c3bddae)
+
 
 
 Overview
