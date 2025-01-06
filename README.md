@@ -53,4 +53,4 @@ Ad budgets are not optimized, resulting in inefficiencies. This analysis aims to
 ## Project Files
 - [SQL](https://raw.githubusercontent.com/omkar-247/Social-Media-AD-campaign-Optimization/refs/heads/main/SQL%20Query.sql): SQL scripts for data analysis.
 - `/visuals`: Power BI charts (PNG/JPEG)
-- `Social Media Ad Campaign.pbix`: Detailed presentation (PDF/PPT).
+- [PPT](https://github.com/omkar-247/Social-Media-AD-campaign-Optimization/blob/main/Social%20Media%20Ad%20Campaign%20ppt.pptx): Detailed presentation .
