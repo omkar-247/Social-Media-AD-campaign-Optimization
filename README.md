@@ -50,3 +50,7 @@ Ad budgets are not optimized, resulting in inefficiencies. This analysis aims to
    - Tailor campaigns for 18-24 males and 25-34 females.
 3. **Campaign Improvements**:
    - Reevaluate underperforming New Year promotions.
+## Project Files
+- `/sql_queries`: SQL scripts for data analysis.
+- `/visuals`: Power BI charts (PNG/JPEG).
+- `/presentation`: Detailed presentation (PDF/PPT).
